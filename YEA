@@ -1,0 +1,28 @@
+Tasks:
+•	Tech Referesh Migration(TXFR) for all states in PROD,QA & UAT.
+o	Handled all TXFR related Tasks proactively with correctness and within given span of time.
+o	Converted few STATES for using TXFR macro and prepare ADD sheet for them.
+o	Successfully worked on Script changes and TXFCTL table changes.
+o	Prepared Checklist for TXFR transfers.
+o	Worked on various defects in QA & UAT with respect to TXFR. End to End worked upon 
+defect #11295,#11316,#11330,#11340.
+o	Took complete ownership for TXFRSLT review task.
+o	Handled lot of individual adhoc tasks as a part of tech migrations independently  
+o	Noticing and Fixing TXFR related issues proactively.
+o	Resolved critical issues and provided Quick fixes for the same.
+•	ODS-Redirect(PRMulti616)
+o	Create macro for generating ODS reports ( Daily Vendor Alert Summary Report, Monthly Vendor Alert Summary Report, Monthly Vendor Alert Summary by Client Report).Also Create a batch program for same to automate entire process including dynamic changes in enform for date.
+o	Prepare TDD document for all ODS report and refresh messages.
+•	DAF (CRMulti-608)
+o	Coded fix program(FXMMVFE) for Fiserv DAF record changes which includes the logic for systematically sending records flagged for deletion to the FISERV Daily Account File (DAF) database.
+o	Prepare batch program  and Document RUN Book and TDD lite for FXMMVFE.
+
+•	AML(PRMULTI235)
+o	From scratch, coded AML merge COBOL program(ECBAMLMG) to merge 10 extracts into single extract file having restart logic and number of records processed. This program is   used in all extracts(Full Demographics, Delta Demographics, Delta transaction Extraction).
+o	Prepare RUNBOOK and flow diagram for merge program.
+•	Value Add
+o	Coded tool JCTLMAC which is used to make multiple updates for JCR-NEXT-NON-ERROR-STEP-NUM and JCR-NEXT-ERROR-STEP-NUM  for JOB-CONTROL-FILE based on the input file given by the user.
+o	It helps client to save up to $3500.
+
+•	Completed certification for JAVA under CCP program. 
+•	Having Learning score 7.71/5.
