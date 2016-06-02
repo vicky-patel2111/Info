@@ -7,7 +7,7 @@ VIHANG PATEL
   OVERVIEW  
  
 
- •	Total professional experience of 2.2 years, with the experience in Android & Java based development.  
+ •	Total professional experience of 3.3 years, with the experience in Android & Java based development.  
  •	Strength in the area of Efficient Coding, Data Structure & Algorithm and Problem Solving Skills 
  •	Ranked 353th(out of 22K) in Online coding contest ProjectEuler+ on HackerRank website 
  •	Graded 87.5% & 90% in Programming Mobile Applications for Android Handheld Systems: Part 1  & Part 2  by University of Maryland on Coursera website 
@@ -30,17 +30,18 @@ VIHANG PATEL
  Developer (Banking & Financial Services)  
  	 
  Project: EFS-EBT (JPMC) 
- -	Responsible for handing and coding List View Activity of Transaction on Account/Card of EFS-EBT Project under Corporate & Investment Banking of JPMorgan Chase Bank. 
+-	Handled and Successfully led the entire card module of an application which have Food stamp , Cash Card.
+-	Responsible for handing and coding ListView (RecycleView) Activity of Transaction on Account/Card of EFS-EBT Project under Corporate & Investment Banking of JPMorgan Chase Bank.
+
+-	Used RESTful APIs And JSON object for data retrieval process
+
+-	Successfully coded Account Detail Activity and Card Detail Activity Using various UI component.
+
+-	Successfully coded an activity to locate nearest ATM center under 10 miles radius using Google Map and OverLay.
  
- 
- -	Used RESTful APIs And JSON object for data retrieval process 
- 
- 
- -	Successfully coded Account Detail Activity and Card Detail Activity Using various UI component. 
- 
- 
- -	Successfully coded an activity to locate nearest ATM center under 10 miles radius using Google Map and OverLay. 
- 
+-	Implemented Robust UI/UX to support application with Material Design and UI components.
+
+
  
  Project: PB OMNI Trust (JPMC) 
 -	Solely Responsible for handling and coding List View Activity of Security Trade for PB OMNI Trust Account of JPMorgan Chase Private Bank in Global Asset Management.  
